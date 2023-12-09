@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e3766fe-c999-48d5-9c8d-1f7ca637424a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AnimalRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AnimalRegistryApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Camel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Donkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Hamster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PackAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pet.java" afterDir="false" />
-    </list>
+    <list default="true" id="2e3766fe-c999-48d5-9c8d-1f7ca637424a" name="Changes" comment="done2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +61,21 @@
       <option name="presentableId" value="Default" />
       <updated>1702135609969</updated>
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1702137723244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702137723244</updated>
+    </task>
+    <task id="LOCAL-00002" summary="done2">
+      <created>1702137791919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702137791919</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -91,5 +88,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <MESSAGE value="done2" />
+    <option name="LAST_COMMIT_MESSAGE" value="done2" />
   </component>
 </project>
